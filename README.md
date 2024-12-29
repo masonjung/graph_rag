@@ -1,2 +1,2 @@
 # graph_rag
-GraphRAG
+GraphRAG practice
